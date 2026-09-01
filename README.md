@@ -1,4 +1,4 @@
-# 🔐 Simple Python Login & Registration Logic
+# 🔐 Simple Python Login & Registration Logic 1.0
 
 A straightforward, console-based Python script that demonstrates user registration and authentication logic using interactive inputs and validation loops.
 
