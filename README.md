@@ -16,3 +16,7 @@ A straightforward, console-based Python script that demonstrates user registrati
 ## 🛠️ Built With
 
 * **Language:** Python 3.x
+
+## 📝 Note
+
+- **If I modify the code, you will find the changes in the releases.**
